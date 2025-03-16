@@ -13,6 +13,7 @@ A feasibility study a preliminary exploration of a proposed project or undertaki
 # HOW TO Use it :
 - ### User just need to download the file, and run the main.py, on local system.
 - ### and make sure the all libraries are install in pip of python which is liberary for the python developer
+- ### make sure you have to run all requirements.txt command adn version are install on  your local pc or laptop.
 - ### then make to gothe terminal and check the path.
 - ### then go to terminal  and save the path and run command of local path
 - ### second way to run command go to the run command on right top side corner to click run command and python backend project run on your local system.
